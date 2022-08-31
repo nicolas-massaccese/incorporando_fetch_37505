@@ -1,0 +1,44 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "imgSrc": "assets/img/alpha.png",
+            "modelo": "Alpha",
+            "tipo": "Mochila",
+            "tamanio":"35x20x15cm",
+            "genero": "unisex",
+            "precio": 12000,
+            "agregadoCarrito": false
+        },
+        {
+            "id": 2,
+            "imgSrc": "assets/img/dunquerke.png",
+            "modelo": "Dunquerke",
+            "tipo": "Bolso",
+            "tamanio":"35x20x15cm",
+            "genero": "unisex",
+            "precio": 20000,
+            "agregadoCarrito": false
+        },
+        {
+            "id": 3,
+            "imgSrc": "assets/img/halcones.png",
+            "modelo": "Halcones",
+            "tamanio":"35x20x15cm",
+            "tipo": "Bolso",
+            "genero": "unisex",
+            "precio": 10000,
+            "agregadoCarrito": false
+        },
+        {
+            "id": 4,
+            "imgSrc": "assets/img/1000ftwallet.png",
+            "modelo": "Wallet - FT",
+            "tipo": "Accesorio",
+            "tamanio":"35x20x15cm",
+            "genero": "unisex",
+            "precio": 3500,
+            "agregadoCarrito": false
+        }
+    ]
+}
